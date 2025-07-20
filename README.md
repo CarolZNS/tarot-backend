@@ -16,6 +16,7 @@ Uma api simples para avalição de conhecimento e prática.
 ### Clone o repositório e instale as dependências:
 
 ```bash
+$ git clone https://github.com/CarolZNS/tarot-backend.git
 $ npm install
 ```
 
