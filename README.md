@@ -38,7 +38,7 @@ $ nest start --watch
 http://localhost:3001/api
 ```
 
-[Acesse o repositório do front :)]()
+[Acesse o repositório do front :)](https://github.com/CarolZNS/tarot-frontend)
 
 ## Endpoints Documentados:
 
@@ -67,7 +67,7 @@ http://localhost:3001/api
 ## Contato
 
 Carolina Nunes - nunes.carolzs@gmail.com
-Project Link: []()
+Project Link: [Api tarô](https://github.com/CarolZNS/tarot-backend/)
 
 ## API original
 
